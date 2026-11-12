@@ -1,4 +1,9 @@
-# 1
+# 1 [Beginner] Personal Introduction Card
+
+# Ask the user for their name, age, city, and favorite programming language. Display the 
+# information as a neat personal introduction card, with each detail on a separate line. Use 
+# meaningful variable names and clear output labels.
+
 # name=input("enter your name");
 # age_text=input("enter your age")
 # age=int(age_text);
@@ -8,7 +13,12 @@
 # print("my age is", age);
 # print("my course is", course);
 
-# 2
+# 2 [Beginner] Simple Calculator
+
+# Ask the user to enter two numbers. Calculate and display their addition, subtraction, 
+# multiplication, and division. Before dividing, check whether the second number is zero and 
+# display a suitable message instead of attempting an invalid division.
+
 # num1= int(input("enter num1 "));
 # num2= int(input("enter num2 "));
 # print(num1+num2);
